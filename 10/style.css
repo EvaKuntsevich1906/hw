@@ -1,0 +1,137 @@
+.main {
+    width: 1110px;
+    height: 451.65px;
+
+}
+
+.blocks {
+    display: flex;
+
+}
+
+.Mainblock {
+    width: 350px;
+    height: 407.65px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+
+    margin-right: 30px;
+}
+
+.first-child {
+    width: 350px;
+    display: flex;
+    height: 252.55px;
+}
+
+.AirPods1 {
+    background-image: url(AP1.png);
+    background-repeat: no-repeat;
+    width: 219.61px;
+    height: 237.45px;
+    max-width: 219.61px;
+    max-height: 237.45px;
+    margin-left: 23.88px;
+    margin-top: 15.1px;
+}
+
+.AirPods2 {
+    background-image: url(AP2.png);
+    background-repeat: no-repeat;
+    width: 219.61px;
+    height: 237.45px;
+    max-width: 219.61px;
+    max-height: 237.45px;
+    margin-left: 23.88px;
+    margin-top: 15.1px;
+}
+
+.AirPods3 {
+    background-image: url(AP3.png);
+    background-repeat: no-repeat;
+    width: 219.61px;
+    height: 237.45px;
+    max-width: 219.61px;
+    max-height: 237.45px;
+    margin-left: 23.88px;
+    margin-top: 15.1px;
+}
+
+.heart {
+    max-width: 20px;
+    max-height: 18.48px;
+    margin-top: 15.35px;
+    margin-left: 22px;
+}
+
+.name_price {
+    display: flex;
+}
+
+.name {
+    width: 125px;
+    height: 21px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1C1C27;
+    margin-top: 54.45px;
+    margin-left: 21.96px;
+}
+
+.price {
+    width: 44px;
+    height: 21px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #FFA542;
+    margin-top: 54.45px;
+    margin-left: 125.04px;
+
+
+}
+
+.stars {
+    display: flex;
+
+}
+
+.stars img {
+    margin-left: 21.96px;
+    margin-bottom: 32.69px;
+
+}
+
+.stars p {
+    width: 27px;
+    height: 21px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #838383;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.category p {
+    width: 114px;
+    height: 24px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #838383;
+
+}
