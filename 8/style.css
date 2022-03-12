@@ -3,19 +3,18 @@ table {
     border-color: black;
     text-align: center;
     border: 1px solid black;
-}
-td {
-    border: 1px solid black;
+    width: 300px;
 }
 th {
-    border: 1px solid black;
-}
-.first {
+   width: 20%;
+   border: 1px solid black;
+   }
+td {
+   border: 1px solid black;
+   }
+td:first-child {
     width: 10%;
-}
-.second {
-    width: 25%;
-}
-.third {
+   }
+td:last-child {
     width: 65%;
-}
+   }

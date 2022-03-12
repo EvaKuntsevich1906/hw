@@ -6,3 +6,6 @@ li {
     font-family: 'Lobster', cursive;
     font-family: 'Roboto', sans-serif;  
 }
+.none {
+    list-style-type: none;
+}

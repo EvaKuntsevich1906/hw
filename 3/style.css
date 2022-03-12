@@ -1,6 +1,8 @@
 body {
     background-image: url(SJ);
     background-repeat: no-repeat;
-    text-align-last: center;
+    text-align-last: left;
     font-size: 25px;
+    max-width: 50%;
 }
+
